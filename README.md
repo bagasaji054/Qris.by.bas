@@ -1,0 +1,2 @@
+# Qris.by.bas
+Qq
